@@ -55,7 +55,7 @@ I’m currently a third-year **Computer Engineering** student at **Veermata Jija
 
 ### 📬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/jayash-bhuyar)
+- [LinkedIn](https://www.linkedin.com/in/jayashbhuyar)
 - [Email](mailto:jayashbhuyar@gmail.com)
 - [GitHub](https://github.com/JayashBhuyar)
 
