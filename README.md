@@ -51,32 +51,13 @@ I’m currently a third-year **Computer Engineering** student at **Veermata Jija
   - **Student Analysis Dashboard**: Provided data insights into academic performance and trends across student demographics.
   - **E-commerce Dashboard**: Built a comprehensive analytics platform for visualizing and optimizing online store sales data.
 
-- **IoT with ESP32**  
-  Simulated real-time sensor data and stored it in a MongoDB cloud database using **Wokwi** for ESP32 simulation, exploring IoT integrations with web platforms.
-
----
-
-### 🌱 Goals & Interests
-- **Coding Mastery**: With **175+ questions** solved on GeeksforGeeks and **90+ on LeetCode**, I'm committed to strengthening my problem-solving skills.
-- **Internship Pursuit**: Actively seeking roles to apply my skills in real-world projects and collaborate with industry professionals.
-- **User-Centric Development**: Striving to build responsive, visually appealing, and functional UIs for seamless user experiences.
-
----
-
-### 🎖 Achievements
-- **Technovanza Committee Leadership**  
-  Twice awarded the **housecup** for outstanding teamwork and leadership as part of VJTI’s Technovanza committee, where I led teams to organize large-scale events and successfully achieved our goals.
-
-- **Academic Growth**  
-  Continuously excelling in subjects such as **Data Structures, DBMS, and OS**, fueling my passion for foundational knowledge and advanced tech skills.
-
 ---
 
 ### 📬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayash-bhuyar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jayashbhuyar@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:jayashbhuyar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/JayashBhuyar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
