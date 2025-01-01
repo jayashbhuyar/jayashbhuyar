@@ -58,6 +58,8 @@ I’m currently a third-year **Computer Engineering** student at **Veermata Jija
 - [LinkedIn](https://www.linkedin.com/in/jayashbhuyar)
 - [Email](mailto:jayashbhuyar@gmail.com)
 - [GitHub](https://github.com/JayashBhuyar)
+- [Portfolio](https://portfolio-chi-nine-68.vercel.app/)
+
 
 ---
 
