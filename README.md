@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Jayash Bhuyar</h1>
+<h1 align="center"> Hi, I'm Jayash Bhuyar</h1>
 
 <p align="center">
   <em>Aspiring Software Developer | Data Enthusiast | Tech Explorer</em>  
