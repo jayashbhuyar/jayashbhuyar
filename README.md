@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 I’m currently a third-year **Computer Engineering** student at **Veermata Jijabai Technological Institute (VJTI), Mumbai**. From creating seamless user experiences on the web to delving deep into data analytics, I’m driven by a passion for crafting innovative and efficient solutions. I enjoy every step of the development journey, constantly honing my skills in full-stack development and data analysis, while staying curious about new tech.
 
 ---
